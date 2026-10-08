@@ -1,0 +1,4 @@
+[
+  { "code": "CREDITO_PESSOAL", "description": "Crédito Pessoal", "monthlyRate": 0.05 },
+  { "code": "CREDITO_CONSIGNADO", "description": "Crédito Consignado", "monthlyRate": 0.025 }
+]

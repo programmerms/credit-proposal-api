@@ -1,0 +1,4 @@
+[
+  { "code": "CREDITO_VERDE", "description": "Crédito Verde / Sustentável", "monthlyRate": 0.04 },
+  { "code": "CAPITAL_GIRO", "description": "Capital de Giro", "monthlyRate": 0.035 }
+]
